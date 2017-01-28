@@ -408,7 +408,7 @@ ul.navbar-nav li a:focus { background: none; color: #2ba560; outline: 0; }
 .portfolio-box {
 	position: relative;
 	width: 255px;
-	margin: 30px 15px 0 15px;
+	margin: 40px 20px 0 20px;
 	overflow: hidden;
 }
 
