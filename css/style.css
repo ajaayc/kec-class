@@ -7,6 +7,11 @@
     text-align: center;
 }
 
+.inner-portfolio {
+    width: 50%
+    margin: 0 auto;
+}
+
 body {
 	background: #fff;
     font-family: 'Open Sans', sans-serif;
@@ -409,7 +414,7 @@ ul.navbar-nav li a:focus { background: none; color: #2ba560; outline: 0; }
 	position: relative;
 	width: 255px;
 	margin: 40px 20px 0 20px;
-	overflow: hidden;
+	overflow: visible;
 }
 
 .portfolio-box img { -o-transition: all .8s; -moz-transition: all .8s; -webkit-transition: all .8s; -ms-transition: all .8s; transition: all .8s; }
