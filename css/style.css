@@ -313,6 +313,55 @@ ul.navbar-nav li a:focus { background: none; color: #2ba560; outline: 0; }
 	text-align: left;
 }
 
+.block-2-box-special {
+	padding-top: 30px;
+	padding-bottom: 20px;
+	text-align: left;
+}
+
+.rounded {
+    border:1px solid #;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
+
+.lecture-list { font-size:30px; }
+.lecture-list ul { font-size:25px; }
+.lecture-list ul li { font-size:20px; }
+.lecture-list ul li ul { padding:5px 0 5px 18px; font-size:15px; }
+.lecture-list ul li ul li { font-size:1px; }
+
+.play-button-div {
+  margin: 0 auto;
+  tex-align: center;
+  position: relative;
+  display: inline-block;
+}
+
+.play-button-div:before {
+  content: "\f01d";
+  font-family: FontAwesome;
+  color: #0080ff;
+  font-size: 80px;
+  padding: .05em .2em;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background: url("img/icons/play.png");
+  z-index: 99;
+}
+
+.play-button-div img {
+  transition: opacity ease .5s;
+}
+
+.play-button-div:hover img {
+  opacity: .6;
+}
+
+
 .block-2-box.block-2-media { padding-bottom: 25px; }
 
 .block-2-box h3 {
