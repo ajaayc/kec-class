@@ -1,31 +1,22 @@
 2.3.17
 
 Change the name of M-EyeFlipped Academy. DONE
+Get rid of the bench.
+
+Look into Canvas
+Webpages should look the same in all three browsers
 
 index.html
 Don't want lots of scrolling down.
-
-optics.html
-Remove: Patient in red                  DONE
-Shrink down the icons on optics page
-
-Look into Canvas
-
 Make the logo page the header rather than the front page. Like half the page
-
 Images on front page may be removed. Not necessary. Modules should let you see all the modules.
 Make module pictures the same size.
 Remove the module pictures if possible. Too obvious for residents
 
 optics.html
+Remove: Patient in red                  DONE
+Shrink down the icons on optics page
 Don't need big font for Lectures section
-
 Remove the + bullet point. Means more content
-
-Webpages should look the same in all three browsers
-
 Make all 5 buttons fit on one row
-
-Get rid of the bench.
-
 Make the buttons look ok when page shrinks to half the size
