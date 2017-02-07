@@ -12,4 +12,4 @@ SUM = 12 hrs, 278 minutes
     = 12 hrs, 4 hrs, 38 min
     = 16 hrs, 40 min
 
-2.6.17 9:15pm to 
+2.6.17 9:15pm to 11:30
