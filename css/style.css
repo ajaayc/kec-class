@@ -531,6 +531,25 @@ ul.navbar-nav li a:focus { background: none; color: #2ba560; outline: 0; }
 }
 .portfolio-box2:hover .portfolio-box-text-container2 { bottom: 0; }
 
+/*Portfolio 3*/
+
+.portfolio-box3 {
+    max-width: 100%;
+	overflow: visible;
+    margin: 4px 0px 0px 0px;
+}
+
+.portfolio-box3 img { -o-transition: all .8s; -moz-transition: all .8s; -webkit-transition: all .8s; -ms-transition: all .8s; transition: all .8s; }
+
+.portfolio-box3:hover img {
+	opacity: 0.4;
+	-o-transform: scale(1.1); -moz-transform: scale(1.1); -webkit-transform: scale(1.1); -ms-transform: scale(1.1); transform: scale(1.1);
+}
+
+}
+.portfolio-box3:hover .portfolio-box-text-container3 { bottom: 0; }
+
+
 /***** Our motto *****/
 
 .our-motto { color: #fff; }

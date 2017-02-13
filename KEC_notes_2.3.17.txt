@@ -7,16 +7,16 @@ Look into Canvas
 Webpages should look the same in all three browsers
 
 index.html
-Don't want lots of scrolling down.
-Make the logo page the header rather than the front page. Like half the page
-Images on front page may be removed. Not necessary. Modules should let you see all the modules.
-Make module pictures the same size.
-Remove the module pictures if possible. Too obvious for residents
+Don't want lots of scrolling down. DONE
+Make the logo page the header rather than the front page. Like half the page DONE
+Images on front page may be removed. Not necessary. Modules should let you see all the modules. DONE
+Make module pictures the same size. DONE
+Remove the module pictures if possible. Too obvious for residents DONE
 
 optics.html
 Remove: Patient in red                  DONE
-Shrink down the icons on optics page
+Shrink down the icons on optics page    DONE
 Don't need big font for Lectures section
-Remove the + bullet point. Means more content
-Make all 5 buttons fit on one row
-Make the buttons look ok when page shrinks to half the size
+Remove the + bullet point. Means more content   DONE
+Make all 5 buttons fit on one row               DONE
+Make the buttons look ok when page shrinks to half the size DONE
