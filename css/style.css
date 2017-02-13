@@ -1,6 +1,5 @@
 .index-images {
     width: 100%;
-    border-radius: 15%;
 }
 
 .eyeflip {
@@ -55,6 +54,7 @@ h3 {
     font-weight: 700;
     color: #888;
     line-height: 30px;
+    font-family:"Times New Roman"
 }
 
 img { max-width: 100%; }
@@ -513,6 +513,23 @@ ul.navbar-nav li a:focus { background: none; color: #2ba560; outline: 0; }
     cursor: pointer;
 }
 
+/*Portfolio 2*/
+
+.portfolio-box2 {
+    max-width: 100%;
+	overflow: hidden;
+    margin: 4px 0px 0px 0px;
+}
+
+.portfolio-box2 img { -o-transition: all .8s; -moz-transition: all .8s; -webkit-transition: all .8s; -ms-transition: all .8s; transition: all .8s; }
+
+.portfolio-box2:hover img {
+	opacity: 0.4;
+	-o-transform: scale(1.25); -moz-transform: scale(1.25); -webkit-transform: scale(1.25); -ms-transform: scale(1.25); transform: scale(1.25);
+}
+
+}
+.portfolio-box2:hover .portfolio-box-text-container2 { bottom: 0; }
 
 /***** Our motto *****/
 
