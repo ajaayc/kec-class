@@ -13,3 +13,5 @@ SUM = 12 hrs, 278 minutes
     = 16 hrs, 40 min
 
 2.6.17 9:15pm to 11:30
+2.12.17 6 hours already recorded. To record: .5 hours
+2.13.17 .33 meeting with Gale
