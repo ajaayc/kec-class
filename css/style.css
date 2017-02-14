@@ -17,11 +17,16 @@
 }
 
 body {
-	background: #fff;
+	background: #93B874 url(b34.png) repeat;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     color: #888;
     text-align: center;
+/*
+    margin:0;
+    padding:0;
+    height:100%;
+*/
 }
 
 strong { font-weight: 700; }
@@ -50,11 +55,11 @@ h2 { text-align: left;
 }
 
 h3 {
-	font-size: 15px;
+	font-size: 10px;
     font-weight: 700;
-    color: #888;
+    color: #000;
     line-height: 30px;
-    font-family:"Times New Roman"
+    font-family: 'Capriola', sans-serif;
 }
 
 img { max-width: 100%; }
@@ -239,8 +244,8 @@ ul.navbar-nav li a:focus { background: none; color: #2ba560; outline: 0; }
 /*Font-size of M-Eye Academy*/
 .page-title-text h1 {
 	color: #fff;
-	text-shadow: 0 1px 6px rgba(51, 51, 51, 0.2);
-    font-size: 50px;
+	text-shadow: 0 2px 6px rgba(51, 51, 51, 0.2);
+    font-size: 35px;
 }
 
 .logo {
@@ -760,6 +765,32 @@ ul.navbar-nav li a:focus { background: none; color: #2ba560; outline: 0; }
 
 
 /***** Footer *****/
+
+/*
+#container {
+   min-height:100%;
+   position:relative;
+}
+#header {
+   background:#ff0;
+   padding:10px;
+}
+*/
+/* 60px is height of footer */
+/*
+#body {
+   padding:10px;
+   padding-bottom:60px;
+}
+
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;
+   background:#6cf;
+}
+*/
 
 footer {
 	padding: 25px 0 25px 0;
