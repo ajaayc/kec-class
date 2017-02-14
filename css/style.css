@@ -16,6 +16,12 @@
     margin: 0 auto;
 }
 
+.buttons { 
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
 body {
 	background: #93B874 url(b34.png) repeat;
     font-family: 'Open Sans', sans-serif;
