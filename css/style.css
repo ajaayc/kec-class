@@ -377,16 +377,16 @@ ul.navbar-nav li a:focus { background: none; color: #2ba560; outline: 0; }
 
 .rounds-list { font-size:30px; }
 
-.lecture-list { font-size:25px; }
+.lecture-list { font-size:15px; }
 .lecture-list ul { font-size:15px; }
-.lecture-list ul li { font-size:20px; }
+.lecture-list ul li { font-size:12px; }
 .lecture-list ul li ul { padding:5px 0 5px 18px; font-size:15px; }
 .lecture-list ul li ul li { font-size:1px; }
 
 .grandrounds-heading { font-size: 20px };
 
 .play-button-div {
-  margin: 0 auto;
+  margin: 0 
   tex-align: center;
   position: relative;
   display: inline-block;
@@ -573,14 +573,14 @@ ul.navbar-nav li a:focus { background: none; color: #2ba560; outline: 0; }
 .portfolio-box3 {
     max-width: 100%;
 	overflow: visible;
-    margin: 4px 0px 0px 0px;
+    margin: 10px 0px 0px 0px;
 }
 
 .portfolio-box3 img { -o-transition: all .8s; -moz-transition: all .8s; -webkit-transition: all .8s; -ms-transition: all .8s; transition: all .8s; }
 
 .portfolio-box3:hover img {
 	opacity: 0.4;
-	-o-transform: scale(1.1); -moz-transform: scale(1.1); -webkit-transform: scale(1.1); -ms-transform: scale(1.1); transform: scale(1.1);
+	-o-transform: scale(1.5); -moz-transform: scale(1.5); -webkit-transform: scale(1.5); -ms-transform: scale(1.5); transform: scale(1.5);
 }
 
 }
