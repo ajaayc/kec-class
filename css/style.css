@@ -42,7 +42,7 @@ button {
 }
 
 body {
-	background: #93B874 url(b34.png) repeat;
+	background: #FFF url(b34.png) repeat;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     color: #888;
@@ -71,7 +71,8 @@ h1{
     font-family: 'Capriola', sans-serif;
 }
 h2 { text-align: left;
-	margin-top: 6px;
+	margin-top: 1px;
+    margin-bottom: 1px;
 	font-size: 21px;
     font-weight: 700;
     color: #444;
@@ -80,7 +81,7 @@ h2 { text-align: left;
 }
 
 h3 {
-	font-size: 10px;
+	font-size: 25%;
     font-weight: 700;
     color: #000;
     line-height: 30px;
@@ -122,8 +123,8 @@ img { max-width: 100%; }
 /***** General style, all sections *****/
 
 .section-container {
-    margin: 0 auto;
-    padding-bottom: 60px;
+    margin: 5px;
+    padding-bottom: 5px;
 }
 
 .section-container-gray { background: #f8f8f8; }
@@ -352,19 +353,19 @@ ul.navbar-nav li a:focus { background: none; color: #2ba560; outline: 0; }
 /***** Block 2 *****/
 
 .block-2-container {
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: -10px;
+	padding-bottom: 1px;
 }
 
 .block-2-box {
-	padding-top: 10px;
-	padding-bottom: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	text-align: left;
 }
 
 .block-2-box-special {
-	padding-top: 30px;
-	padding-bottom: 20px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 	text-align: left;
 }
 
@@ -383,7 +384,14 @@ ul.navbar-nav li a:focus { background: none; color: #2ba560; outline: 0; }
 .lecture-list ul li ul { padding:5px 0 5px 18px; font-size:15px; }
 .lecture-list ul li ul li { font-size:1px; }
 
-.grandrounds-heading { font-size: 20px };
+.other-list { font-size:15px; }
+.other-list ul { font-size:15px; }
+.other-list ul li { font-size:12px; }
+.other-list ul li ul { padding:5px 0 5px 18px; font-size:15px; }
+.other-list ul li ul li { font-size:1px; }
+
+
+.grandrounds-heading { font-size: 12px };
 
 .play-button-div {
   margin: 0 
@@ -420,7 +428,7 @@ ul.navbar-nav li a:focus { background: none; color: #2ba560; outline: 0; }
 .block-2-box h3 {
 	padding: 10px 0;
 }
-.block-2-box h3:first-child { margin-top: 0; }
+.block-2-box h3:first-child { margin-top: 0px; }
 
 .block-2-box p {
 	font-size: 18px;
