@@ -183,6 +183,11 @@ img { max-width: 100%; }
 
 .green-text { color: #2ba560; }
 
+.lecture-border {
+    border: solid #000;
+    border-width: 1px 1px 1px 1px;
+    border-top-style: solid #000;
+}
 
 /***** Dividers *****/
 
