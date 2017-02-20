@@ -2,6 +2,10 @@
     width: 100%;
 }
 
+a:link {
+    text-decoration: underline;
+}
+
 .eyeflip {
     display: inline-block;
     border: 1px solid black;
@@ -265,6 +269,7 @@ ul.navbar-nav li a:focus { background: none; color: #2ba560; outline: 0; }
 /*Padding between top and bottom of KEC building */
 .page-title {
 	padding: 25px 0 45px 0;
+    height: 145px;
 }
 
 .page-title-text {
