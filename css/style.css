@@ -66,6 +66,66 @@ a, a:hover, a:focus {
     -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
 }
 
+.sb_container{
+	overflow: hidden;
+	width: 300px;
+	vertical-align: middle;
+	white-space: nowrap;
+}
+.sb_container input.search{ 
+	width: 280px; 
+	height: 40px; 
+	background: #207cca; 
+	border: none; 
+	font-size: 10pt; 
+	float: left; 
+	color: #fff; 
+	padding-left: 15px; 
+	-webkit-border-radius: 5px; 
+	-moz-border-radius: 5px; 
+	border-radius: 5px;
+}
+
+.sb_container input.search::-webkit-input-placeholder { color: white;}
+.sb_container input.search:-moz-placeholder { /* Firefox 18- */ color: white; }
+.sb_container input.search::-moz-placeholder {  /* Firefox 19+ */ color: white; }
+.sb_container input.search:-ms-input-placeholder {  color: white; }
+
+.sb_container button.icon {
+		  -webkit-border-top-right-radius: 5px; 
+		  -webkit-border-bottom-right-radius: 5px; 
+		  -moz-border-radius-topright: 5px; 
+		  -moz-border-radius-bottomright: 5px; 
+		  border-top-right-radius: 5px; 
+		  border-bottom-right-radius: 5px; 
+		  border: none; 
+		  background: #f7f7f7; 
+		  height: 50px; 
+		  width: 50px; 
+		  color: #4f5b66; 
+		  opacity: 0; 
+		  font-size: 10pt; 
+		  -webkit-transition: all .55s ease; 
+		  -moz-transition: all .55s ease; 
+		  -ms-transition: all .55s ease; 
+		  -o-transition: all .55s ease; 
+		  transition: all .55s ease;
+	}
+	.sb_container:hover button.icon, .sb_container:active button.icon, .sb_container:focus button.icon{ 
+		  outline: none; 
+		  opacity: 1; 
+		  margin-left: -50px;
+		  background-image:url('../img/search-icon.png');    
+		  background-repeat: no-repeat;  
+		  background-position: center; 
+	}
+
+	.sb_container:hover button.icon:hover{ 
+		  background: #f7f7f7;
+		  background-image:url('../img/search-icon.png');    
+		  background-repeat: no-repeat;background-position: center; 
+	}
+
 h1{
 	margin-top: 10px;
 	font-size: 34px;
