@@ -38,6 +38,8 @@ button {
   flex: 1;
 }
 
+.live-module {text-decoration: underline; }
+
 /*Centering the table and setting its width*/
 #buttons_table {
     width: 75%;
