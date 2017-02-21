@@ -86,6 +86,7 @@ a, a:hover, a:focus {
 	border-radius: 5px;
     color: black;
     font-weight: bold;
+    line-height: 2px; /*Need this to center text in textbox in IE*/
 }
 
 .sb_container input.search::-webkit-input-placeholder { color: black; font-weight: bold;}
