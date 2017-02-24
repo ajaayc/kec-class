@@ -18,3 +18,5 @@ SUM = 12 hrs, 278 minutes
 2.14.17 3.5 hours
 2.15.17 2 hours
 2.16.17 3:50 to 5:36 1.75 hours
+2.17.17 .33 hours
+2.19.17 1 hr, 15 min + 2 hours, 5 min = 3.33 hours
