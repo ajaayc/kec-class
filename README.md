@@ -1,6 +1,6 @@
 # MƎYƎ Academy 👁️
 
-[![University of Michigan](https://img.shields.io/badge/University%20of%20Michigan-Kellogg%20Eye%20Center-00274C?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAEPSURBVHjaYvz//z8DCDAxQMFgAf+B+D8OjFUxIwMDQyIQ/wdiJiC+AMQfgPg+EN8D4rtAfBuIbwLxdSC+CsRXgPgyEF8C4otAfB6IzwLxGSA+DcSngPgkEJ8A4uNAfAyIjwLxESA+DMSHgPggEB8A4v1AvA+I9wLxHiDeDcS7gHgnEO8A4u1AvA2ItwLxFiDeDMSbgHgjEG8A4vVAvA6I1wLxGiBeDcSrgHglEK8A4uVAvAyIlwLxEiBeDMSLgHghEC8A4vlAPA+I5wLxHCCeDcSzgHgmEM8A4ulAPA2IpwLxFCCeDMSTgHgiEE8A4vFAPA6IxwLxGCAeDcSjgHgkEI8A4uFAPAyIhwLxECAeDMSDgHggEA8AYgYGBgYANvyK7bm9LYcAAAAASUVORK5CYII=)](http://kellogg.umich.edu/)
+[![University of Michigan](https://img.shields.io/badge/University%20of%20Michigan-Kellogg%20Eye%20Center-00274C?style=flat)](http://kellogg.umich.edu/)
 [![License](https://img.shields.io/badge/license-Educational-blue.svg)](LICENSE)
 
 A comprehensive educational resource platform for ophthalmology residents and fellows at the University of Michigan Kellogg Eye Center. MƎYƎ Academy provides organized access to course materials, lectures, grand rounds, and resources across all major ophthalmology subspecialties.
